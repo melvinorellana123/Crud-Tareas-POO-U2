@@ -1,0 +1,17 @@
+﻿@model TareasViewModel;
+
+@{
+    ViewData["Title"] = "Home Page";
+}
+
+<div class="text-center row justify-content-center align-items-center pb-3">
+  
+    <h1 class="display-6 col-auto ">Mis Tareas</h1>
+    <a href="Home/Crear/" class="btn btn-success col-auto  ">Crear Nueva</a>
+    
+</div>
+
+
+@Html.Partial("_Tareas");
+
+

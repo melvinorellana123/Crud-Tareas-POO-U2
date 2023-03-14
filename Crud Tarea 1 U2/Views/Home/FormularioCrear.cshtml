@@ -1,0 +1,34 @@
+﻿@model Tarea
+
+<div  class="row p-5 mb-4 " id="formularioContainerCrear">
+    <form method="post"asp-action="Crear">
+        <div class=" col-auto bg-success text-light">
+            <h3 class="text-center">Crear Tarea</h3>
+        </div>
+        <div class="row gap-3 justify-content-center">
+            <div class="col-6">
+                <label for="tituloTarea" class="form-label m-2">Titulo de la Tarea</label>
+                <input name="Nombre" type="text" class="form-control" placeholder="Nombre" id="tituloTarea"/>
+            </div>
+
+            <div class="col-6">
+                <label for="descripcionTarea" class="form-label m-2">Descripcion de la Tarea</label>
+                <textarea name="Descripcion" class="form-control" placeholder="Descricion" id="descripcionTarea" style="height: 100px"></textarea>
+
+            </div>
+
+            <div class="col-6">
+                <label for="fechaTarea" class="form-label m-2">Fecha de la Tarea</label>
+                <input name="FechaVencimiento" type="date" class="form-control" id="fechaTarea"/>
+            </div>
+            <div class="col-6 d-flex justify-content-center gap-2 ">
+                <button type="submit"  class=" btn btn-success d-block">Crear</button>
+                <a href="/" class="btn btn-danger d-block">Cancelar</a>
+            </div>
+        
+            
+            
+
+        </div>
+    </form>
+</div>

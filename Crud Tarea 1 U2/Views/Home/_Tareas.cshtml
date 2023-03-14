@@ -1,0 +1,20 @@
+﻿
+<div class="row justify-content-center gap-3 mb-5">
+    @foreach (Tarea tarea in Model.tareas)
+    {
+    
+        <div class="card pt-3 col-3" id="cardTarea" style="width: 18rem;">
+            <div class=" row justify-content-center">
+                <img src="/Imagenes/tarea.png" class="card-img w-50" alt="Imagen de Tarea">
+            </div>
+            <div class="card-body ">
+                <h5 class="card-title">@tarea.Nombre</h5>
+                <p class="card-text">@tarea.Descripcion</p>
+                <p>@tarea.FechaVencimiento.ToString("dd/MM/yyyy")</p>
+                <a href="Home/Editar/@tarea.Id" class="btn btn-primary">Editar</a>
+                <a href="Home/Eliminar/@tarea.Id" class="btn btn-danger">Eliminar</a>
+            </div>
+        </div>
+   
+    }
+</div>

@@ -1,0 +1,31 @@
+C:\Users\melvi\source\repos\Crud Tarea 1 U1\Crud Tarea 1 U1\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\melvi\source\repos\Crud Tarea 1 U1\Crud Tarea 1 U1\bin\Debug\net6.0\appsettings.json
+C:\Users\melvi\source\repos\Crud Tarea 1 U1\Crud Tarea 1 U1\bin\Debug\net6.0\Crud Tarea 1 U1.staticwebassets.runtime.json
+C:\Users\melvi\source\repos\Crud Tarea 1 U1\Crud Tarea 1 U1\bin\Debug\net6.0\Crud Tarea 1 U1.exe
+C:\Users\melvi\source\repos\Crud Tarea 1 U1\Crud Tarea 1 U1\bin\Debug\net6.0\Crud Tarea 1 U1.deps.json
+C:\Users\melvi\source\repos\Crud Tarea 1 U1\Crud Tarea 1 U1\bin\Debug\net6.0\Crud Tarea 1 U1.runtimeconfig.json
+C:\Users\melvi\source\repos\Crud Tarea 1 U1\Crud Tarea 1 U1\bin\Debug\net6.0\Crud Tarea 1 U1.dll
+C:\Users\melvi\source\repos\Crud Tarea 1 U1\Crud Tarea 1 U1\bin\Debug\net6.0\Crud Tarea 1 U1.pdb
+C:\Users\melvi\source\repos\Crud Tarea 1 U1\Crud Tarea 1 U1\obj\Debug\net6.0\Crud Tarea 1 U1.csproj.AssemblyReference.cache
+C:\Users\melvi\source\repos\Crud Tarea 1 U1\Crud Tarea 1 U1\obj\Debug\net6.0\Crud Tarea 1 U1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\melvi\source\repos\Crud Tarea 1 U1\Crud Tarea 1 U1\obj\Debug\net6.0\Crud Tarea 1 U1.AssemblyInfoInputs.cache
+C:\Users\melvi\source\repos\Crud Tarea 1 U1\Crud Tarea 1 U1\obj\Debug\net6.0\Crud Tarea 1 U1.AssemblyInfo.cs
+C:\Users\melvi\source\repos\Crud Tarea 1 U1\Crud Tarea 1 U1\obj\Debug\net6.0\Crud Tarea 1 U1.csproj.CoreCompileInputs.cache
+C:\Users\melvi\source\repos\Crud Tarea 1 U1\Crud Tarea 1 U1\obj\Debug\net6.0\Crud Tarea 1 U1.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\melvi\source\repos\Crud Tarea 1 U1\Crud Tarea 1 U1\obj\Debug\net6.0\Crud Tarea 1 U1.RazorAssemblyInfo.cache
+C:\Users\melvi\source\repos\Crud Tarea 1 U1\Crud Tarea 1 U1\obj\Debug\net6.0\Crud Tarea 1 U1.RazorAssemblyInfo.cs
+C:\Users\melvi\source\repos\Crud Tarea 1 U1\Crud Tarea 1 U1\obj\Debug\net6.0\staticwebassets\msbuild.Crud Tarea 1 U1.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\melvi\source\repos\Crud Tarea 1 U1\Crud Tarea 1 U1\obj\Debug\net6.0\staticwebassets\msbuild.build.Crud Tarea 1 U1.props
+C:\Users\melvi\source\repos\Crud Tarea 1 U1\Crud Tarea 1 U1\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.Crud Tarea 1 U1.props
+C:\Users\melvi\source\repos\Crud Tarea 1 U1\Crud Tarea 1 U1\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.Crud Tarea 1 U1.props
+C:\Users\melvi\source\repos\Crud Tarea 1 U1\Crud Tarea 1 U1\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\melvi\source\repos\Crud Tarea 1 U1\Crud Tarea 1 U1\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\melvi\source\repos\Crud Tarea 1 U1\Crud Tarea 1 U1\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\melvi\source\repos\Crud Tarea 1 U1\Crud Tarea 1 U1\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\melvi\source\repos\Crud Tarea 1 U1\Crud Tarea 1 U1\obj\Debug\net6.0\scopedcss\bundle\Crud Tarea 1 U1.styles.css
+C:\Users\melvi\source\repos\Crud Tarea 1 U1\Crud Tarea 1 U1\obj\Debug\net6.0\scopedcss\projectbundle\Crud Tarea 1 U1.bundle.scp.css
+C:\Users\melvi\source\repos\Crud Tarea 1 U1\Crud Tarea 1 U1\obj\Debug\net6.0\Crud Tarea 1 U1.dll
+C:\Users\melvi\source\repos\Crud Tarea 1 U1\Crud Tarea 1 U1\obj\Debug\net6.0\refint\Crud Tarea 1 U1.dll
+C:\Users\melvi\source\repos\Crud Tarea 1 U1\Crud Tarea 1 U1\obj\Debug\net6.0\Crud Tarea 1 U1.pdb
+C:\Users\melvi\source\repos\Crud Tarea 1 U1\Crud Tarea 1 U1\obj\Debug\net6.0\Crud Tarea 1 U1.genruntimeconfig.cache
+C:\Users\melvi\source\repos\Crud Tarea 1 U1\Crud Tarea 1 U1\obj\Debug\net6.0\ref\Crud Tarea 1 U1.dll
