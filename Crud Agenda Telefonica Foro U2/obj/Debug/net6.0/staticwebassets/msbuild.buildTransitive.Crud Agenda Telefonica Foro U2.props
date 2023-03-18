@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\buildMultiTargeting\Crud Agenda Telefonica Foro U2.props" />
+</Project>

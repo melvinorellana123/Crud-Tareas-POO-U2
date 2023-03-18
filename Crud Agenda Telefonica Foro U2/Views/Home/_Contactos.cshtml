@@ -1,0 +1,34 @@
+﻿@model ContactosViewModel
+
+@if (Model.contactos.Count == 0)
+{
+    <h4 class="text-center">No hay datos para mostrar</h4>
+}
+else
+{
+    <div class="row justify-content-center gap-3 mb-5">
+    
+        @foreach (Contacto contacto in Model.contactos)
+        {
+      
+  
+    
+            <div class="card pt-3 col-3" id="cardContacto" style="width: 18rem;">
+                <div class=" row justify-content-center">
+                    <img src="~/Images/perfil.png" class="card-img w-50" alt="Imagen de Tarea">
+                </div>
+                <div class="card-body ">
+                    <h5 class="card-title">@contacto.Nombre</h5>
+                    <p class="card-text">Tel. Celular: <b>@contacto.NumCelular</b></p>
+                    <p class="card-text">Tel. Fijo: <b>@contacto.NumFijo</b></p>
+                    <p class="card-text">Tel. Residencial: <b>@contacto.NumResidencial</b></p>
+                    <p class="card-text">Tel. Trabajo: <b>@contacto.NumTrabajo</b> </p>
+                    <a href="Home/Editar/@contacto.Id" class="btn btn-primary">Editar</a> 
+                    <a href="Home/Eliminar/@contacto.Id" class="btn btn-danger">Eliminar</a>
+                </div>
+            </div>
+ 
+        }
+    </div>
+
+}
